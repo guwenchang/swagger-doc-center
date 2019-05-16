@@ -1,0 +1,12 @@
+swagger:
+  doc:
+    resources:
+      product-api:
+        name: product-api
+        api-docs-path: /v2/api-docs
+        server-url: http://localhost:9009
+      order-api:
+        name: order-api
+        api-docs-path: /v2/api-docs
+        server-url: http://localhost:9009
+
